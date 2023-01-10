@@ -1,5 +1,6 @@
 <h2>Base Project 2</h2>
-<ol>Member: 
+Member: 
+<ol>
     <li> LE MINH THE </li>
     <li> TRUONG BA VUONG</li>
  </ol>
