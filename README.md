@@ -1,6 +1,8 @@
 <h2>Base Project 2</h2>
-<p>Member: 1. LE MINH THE </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. TRUONG BA VUONG</p>
+<ol>Member: 
+    <li> LE MINH THE </li>
+    <li> TRUONG BA VUONG</li>
+ </ol>
 <p>Class: 21GIT</p>
 <p>Instructor: Ph.D Nguyen Duc Hien</p>
 <p>VKU</p>
