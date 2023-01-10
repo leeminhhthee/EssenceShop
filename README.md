@@ -6,4 +6,4 @@ Member:
  </ol>
 <p>Class: 21GIT</p>
 <p>Instructor: Ph.D Nguyen Duc Hien</p>
-<p>VKU</p>
+<img src="https://vku.udn.vn/uploads/no-image.png">
